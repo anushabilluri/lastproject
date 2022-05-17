@@ -2,7 +2,6 @@
 
 - This project is a simple ecommerce jewellery selling website which allows users to log in and sign up and also it allows the user to add products to the cart and checkout
 - below is the discription for the project design
-- 
 # Front End
 ***
 - [HTML] - A markup language for describing web documents.
