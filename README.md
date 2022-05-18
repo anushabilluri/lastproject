@@ -65,14 +65,17 @@ My idea with this website was to develop a e-commerce site that can be easily cu
  ***
 - Rule 1 - User select optional or many products are selected by a single User.
 - rule 2 - A user must select one product
+- ***
  #User and orders
  ***
 - Rule 1 - User orders many or optional products are created by a single user
 - Rule 2- order may contain any number of products
+- ***
 #Orders and cart
 ***
 - Rule 1 - orders many or optional go to cart however user can make any number of order
 - Rule 2 - A order must be added to the cart
+- ***
  #products and cart
  ***
 - Rule 1- products many or optional added to the cart however any number of products can be
