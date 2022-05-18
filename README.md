@@ -1,4 +1,4 @@
-#jewellery project
+### Jewellery project
 
 My idea with this website was to develop a e-commerce site that can be easily customized and added to by the user. The site boasts all the features that you would expect from a e-commerce site including product pages, product view pages, a shopping cart.
 - This project is a simple ecommerce jewellery selling website which allows users to log in and sign up and also it allows the user to add products to the cart and checkout
@@ -8,7 +8,7 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 -  user can click forgot password and can create new one if in case he forgot his password by giving and verifying his email id associated to account
 -  user can login to account by giving mail id and password
 
-#below is front and backend which i used to develop this website
+### below is front and backend which i used to develop this website
 
 # Front End
 ***
@@ -42,7 +42,7 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 - [MySQL](http://www.mysql.com/)
 
 ***
-# changes and things which i add in this website in future
+### changes and things which i add in this website in future
 ***
 - I am planning to sort products based on gender , product type.
 
@@ -57,25 +57,29 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 ![Screenshot (5)](https://user-images.githubusercontent.com/103959737/168946374-b8e31592-0919-4c61-a608-1ffd026d1b6c.png)
 ![image](https://user-images.githubusercontent.com/103959737/168946702-b0e8ee9e-faa4-40ce-92fe-97f0333e68a4.png)
  
- #User and Product
+ ### User and Product
  ***
 - Rule 1 - User select optional or many products are selected by a single User.
 - rule 2 - A user must select one product
 - ***
- #User and orders
+ ### User and orders
  ***
 - Rule 1 - User orders many or optional products are created by a single user
 - Rule 2- order may contain any number of products
 - ***
-#Orders and cart
+### Orders and cart
 ***
 - Rule 1 - orders many or optional go to cart however user can make any number of order
 - Rule 2 - A order must be added to the cart
 - ***
- #products and cart
+ ### products and cart
  ***
 - Rule 1- products many or optional added to the cart however any number of products can be
 Selected
 - Rule 2 -  A product must be added to the cart
+
+### Bugs and Issues 
+- promitions and discounts not working
+- slow loading images
 
 
