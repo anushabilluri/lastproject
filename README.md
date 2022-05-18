@@ -1,4 +1,4 @@
-# lastproject
+#jewellery project
 My idea with this website was to develop a e-commerce site that can be easily customized and added to by the user. The site boasts all the features that you would expect from a e-commerce site including product pages, product view pages, a shopping cart.
 - This project is a simple ecommerce jewellery selling website which allows users to log in and sign up and also it allows the user to add products to the cart and checkout
 -  Users can select to display products in a single category. Users can click on any product to get more information including pricing, reviews and rating. Users can select items and add them to their shopping cart
