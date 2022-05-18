@@ -50,4 +50,4 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 # changes and things which i add in this website in future
 ***
 - I am planning to sort products based on gender , product type
-- Now i added category in my nav bar but unable to do sorting based on gender and product type 
+![WhatsApp Image 2022-05-17 at 8 17 30 PM](https://user-images.githubusercontent.com/103959737/168944864-3e7a90e4-1a3d-4f45-b50a-aa42e57c39e2.jpeg)
