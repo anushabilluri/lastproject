@@ -60,18 +60,18 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 ![Screenshot (7)](https://user-images.githubusercontent.com/103959737/168946359-29328b7f-4570-472c-9708-b871d6fa4f28.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/103959737/168946374-b8e31592-0919-4c61-a608-1ffd026d1b6c.png)
 ![image](https://user-images.githubusercontent.com/103959737/168946702-b0e8ee9e-faa4-40ce-92fe-97f0333e68a4.png)
- User and Product
-Rule 1 - User select optional or many products are selected by a single User.
-rule 2 - A user must select one product
- User and orders
-Rule 1 - User orders many or optional products are created by a single user
-Rule 2- order may contain any number of products
- Orders and cart
-Rule 1 - orders many or optional go to cart however user can make any number of order
-Rule 2 - A order must be added to the cart
- products and cart
-Rule 1- products many or optional added to the cart however any number of products can be
+ -User and Product
+-Rule 1 - User select optional or many products are selected by a single User.
+-rule 2 - A user must select one product
+ -User and orders
+-Rule 1 - User orders many or optional products are created by a single user
+-Rule 2- order may contain any number of products
+- Orders and cart
+-Rule 1 - orders many or optional go to cart however user can make any number of order
+-Rule 2 - A order must be added to the cart
+ -products and cart
+-Rule 1- products many or optional added to the cart however any number of products can be
 Selected
-Rule 2 -  A product must be added to the cart
+-Rule 2 -  A product must be added to the cart
 
 
