@@ -56,8 +56,6 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 ![website image 1](https://user-images.githubusercontent.com/103959737/168946120-50ca4e4b-13d5-46a7-8d72-5ce12f26e6f2.jpeg)
 ![website image 2](https://user-images.githubusercontent.com/103959737/168946127-664840cd-c13d-4238-b71e-e7a14ac97a58.jpeg)
 ![website image 3](https://user-images.githubusercontent.com/103959737/168946136-f1947263-5e37-4090-863a-421451cef30f.jpeg)
-![website image 4](https://user-images.githubusercontent.com/103959737/168946143-7642a080-ef88-43e6-ba39-07a1072aa0eb.jpeg)
-![website image 5](https://user-images.githubusercontent.com/103959737/168946147-a53dfed3-2288-4bc6-bcd2-b3f47ed2d2dd.jpeg)
 ![website image 6](https://user-images.githubusercontent.com/103959737/168946153-06429a84-9ce2-43cb-b334-01e669870cce.jpeg)
 ![Screenshot (7)](https://user-images.githubusercontent.com/103959737/168946359-29328b7f-4570-472c-9708-b871d6fa4f28.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/103959737/168946374-b8e31592-0919-4c61-a608-1ffd026d1b6c.png)
