@@ -7,7 +7,8 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 -  user can sign up and create membership
 -  user can click forgot password and can create new one if in case he forgot his password by giving and verifying his email id associated to account
 -  user can login to account by giving mail id and password
-- below is front and backend which i used to develop this website
+
+#below is front and backend which i used to develop this website
 
 # Front End
 ***
