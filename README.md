@@ -8,13 +8,7 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 -  user can click forgot password and can create new one if in case he forgot his password by giving and verifying his email id associated to account
 -  user can login to account by giving mail id and password
 - below is front and backend which i used to develop this website
-# Entities
-***
--The entities of this e-commerce website can be broken down into three categories: products,customers,sellers.
 
--Products are the items that are sold on the website. Sellers are the businesses or individuals who sell these products. Customers are the people who buy the products.
-
--Each of these categories has its own set of entities. For example, products have their own set of attributes (e.g., name, price, description), sellers have their own set of contact information (e.g., address, phone number), and customers have their own set of purchase information (e.g., credit card number, shipping address).
 # Front End
 ***
 - [HTML] - A markup language for describing web documents.
