@@ -55,6 +55,9 @@ My idea with this website was to develop a e-commerce site that can be easily cu
 ![website image 6](https://user-images.githubusercontent.com/103959737/168946153-06429a84-9ce2-43cb-b334-01e669870cce.jpeg)
 ![Screenshot (7)](https://user-images.githubusercontent.com/103959737/168946359-29328b7f-4570-472c-9708-b871d6fa4f28.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/103959737/168946374-b8e31592-0919-4c61-a608-1ffd026d1b6c.png)
+
+### ERD model
+***
 ![image](https://user-images.githubusercontent.com/103959737/168946702-b0e8ee9e-faa4-40ce-92fe-97f0333e68a4.png)
  
  ### User and Product
